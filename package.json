@@ -1,0 +1,10 @@
+{
+  "name": "ha-demo",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "mttaggart <michael.t.taggart@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "hyperapp": "^1.2.9"
+  }
+}
